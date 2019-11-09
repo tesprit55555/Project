@@ -84,20 +84,32 @@ Vervolgens selecteren in welke tabel je de data steekt
 		6 ZBE Prospect krijgt Marketing 
 		7 ZBB prospect krijgt Marketing 
 		8 ZBG Prospect krijgt Marketing
+		9 Uitgeschreven (GDPR)
 
 
 	TabelCummunicatieMiddel
 		IdCummunicatieMiddel
 		1 Email - Mailing
 		2 Post - Mailing
-		3 Bussen - Folders
+		(3 Bussen - Folders)
 
 	TabelCommunicatieBoodschappen:
 		IdCommunicatieboodschap
 		1 opening/afsluit Zwembadseizoen 
-			ja(Indien Klant,actief,)
-			Nee
-		2 Verlofregelingen ()
+			ja(Indien =Klant,actief=ja,communicatiesoort=1of2)
+				//Extra info Nee(Indien=prospect, niet actieve klant, 
+				communicatiesoort 3,4,5,6,7,8,9)
+		2 Verlofregelingen 
+			ja(indien = klant, actief=ja, communicatiesoort 1,2,4,5)
+				//Extra info Nee(Indien = prospect, actief = nee, 
+				communicatiesoort = 3,6,7,8,9)
 		3 Klant Marketing/nieuwe producten/interessante aanbiedingen,speciale aanbiedingen
-		4 niewsbrieven
-
+			ja(indien klant of prospect, klant is actief= ja, communicatiesoort = 1,6,7,8)
+				//Extra info Nee(Indien = klant actief = nee, 
+				communicatiesoort = 2,3,4,9)
+		4 nieuwsbrieven
+			ja(indien klant, klant is actief= ja & nee, communicatiesoort = 1,6,7,8)
+				//Extra info Nee(Indien = klant, 
+				communicatiesoort = 2,3,4,9)
+		5 Geen 
+			(als is communciatiesoort = 9)
