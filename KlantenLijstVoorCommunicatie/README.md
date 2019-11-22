@@ -122,7 +122,7 @@ Vervolgens selecteren in welke tabel je de data steekt
 
 		- marketing kan gericht targetten (met communicatie), gericht op regio, op klantenbestand, of welke werken er kunnen worden doorgegeven
 
-			- kan commissie worden berekend aan de hand van het aantal aangebrachte klanten( afhankelijk van het aantal aangebrachte klante, hoeveelheid commisie die wordt toegekend)
+			- boekhouding/eigenaar kan commissie worden berekend aan de hand van het aantal aangebrachte klanten( afhankelijk van het aantal aangebrachte klante, hoeveelheid commisie die wordt toegekend)
 
 
 			stories uitschrijven: 10 stories wat doen die gebruikers, wat halen ze uit de database met welk doel
@@ -136,3 +136,9 @@ Vervolgens selecteren in welke tabel je de data steekt
 			(deze mogen niet bij klanten terechtkomen van zbg, enkel bij eigen klanten, klanten van zbb, en niet bij prospecten)
 			- de planning (4E rol) moet de bestaande klanten kunnen verwittigen om de opstart/afsluit te kunnen inplannen, dit 
 			wordt gericht aan actieve, eigen klanten en klanten in portefeuille gegeven door andere zbb
+			- we laten weten aan alle klanten dat we ook service geven op hun wp (verschillende merken)
+			-prijsverhoging wordt doorgevoerd (alle klanten moeten worden geinformeerd)
+			-eigen klanten krijgen de kans om de nieuwste waterbehandeling aankopen met een korting
+			-de Zbe eigenaars van de verschillende zbb krijgen info dat opnieuw het komende jaar wij de service en onderhoud bij hen wordt verzorgt in naam van de zbb
+			-Zbb mogen weten dat we een nieuw pakket hebben samengesteld voor hun klanten
+			-het wordt warmer we willen de zbg laten weten dat we terug klaar zijn voor de herstelling van warmtepompen
