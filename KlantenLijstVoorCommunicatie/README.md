@@ -127,8 +127,12 @@ Vervolgens selecteren in welke tabel je de data steekt
 
 			stories uitschrijven: 10 stories wat doen die gebruikers, wat halen ze uit de database met welk doel
 			- rol : storie:
-			- de verkoopsafdeling wil een nieuwe dienst/product promotten en trekt de lijst van de prospect zbb om deze te bewerken via email en telefoon
-			- op het einde van het jaar wordt door de boekhouding gekeken hoeveel zbe er door de zbb worden in portefeuille gegeven, zo kan de boekhouding onderzoeken in welke graad van commissie de zbb staat
-			- de eigenaar wil hieruit zien hoeveel nieuwe klanten er werden aangebracht door de zbb
-			-bij de afsluit/opstart dient er door de marketing een mailing worden verzonden (deze mogen niet bij klanten terechtkomen van zbg, enkel bij eigen klanten, klanten van zbb, en niet bij prospecten)
-			-
+			- de verkoopsafdeling wil een nieuwe dienst/product promotten en trekt de lijst van de prospect zbb en zbe
+			om deze te bewerken via email en sms/whatsapp en post.
+			- op het einde van het jaar wordt door de boekhouding gekeken hoeveel zbe er door de zbb worden in portefeuille 
+			gegeven, zo kan de boekhouding onderzoeken in welke graad van commissie de zbb staat
+			- de eigenaar wil zien hoeveel nieuwe klanten er werden aangebracht door de zbb
+			-bij de afsluit/opstart dient er door de marketing een mailing worden verzonden 
+			(deze mogen niet bij klanten terechtkomen van zbg, enkel bij eigen klanten, klanten van zbb, en niet bij prospecten)
+			- de planning (4E rol) moet de bestaande klanten kunnen verwittigen om de opstart/afsluit te kunnen inplannen, dit 
+			wordt gericht aan actieve, eigen klanten en klanten in portefeuille gegeven door andere zbb
