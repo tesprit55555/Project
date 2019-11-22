@@ -113,3 +113,22 @@ Vervolgens selecteren in welke tabel je de data steekt
 				communicatiesoort = 2,3,4,9)
 		5 Geen 
 			(als is communciatiesoort = 9)
+
+
+			rollen uitschrijven: welke 3 gebruikers van de database
+			- rollen zbb, zbe, zbg? BO
+
+			- verkoper die zijn verkoopstrategie kan targetten  (in regio, op soort klant), op wie geen klanten meer aanbrengt
+
+		- marketing kan gericht targetten (met communicatie), gericht op regio, op klantenbestand, of welke werken er kunnen worden doorgegeven
+
+			- kan commissie worden berekend aan de hand van het aantal aangebrachte klanten( afhankelijk van het aantal aangebrachte klante, hoeveelheid commisie die wordt toegekend)
+
+
+			stories uitschrijven: 10 stories wat doen die gebruikers, wat halen ze uit de database met welk doel
+			- rol : storie:
+			- de verkoopsafdeling wil een nieuwe dienst/product promotten en trekt de lijst van de prospect zbb om deze te bewerken via email en telefoon
+			- op het einde van het jaar wordt door de boekhouding gekeken hoeveel zbe er door de zbb worden in portefeuille gegeven, zo kan de boekhouding onderzoeken in welke graad van commissie de zbb staat
+			- de eigenaar wil hieruit zien hoeveel nieuwe klanten er werden aangebracht door de zbb
+			-bij de afsluit/opstart dient er door de marketing een mailing worden verzonden (deze mogen niet bij klanten terechtkomen van zbg, enkel bij eigen klanten, klanten van zbb, en niet bij prospecten)
+			-
