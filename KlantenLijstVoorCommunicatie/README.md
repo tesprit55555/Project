@@ -120,12 +120,28 @@ Vervolgens selecteren in welke tabel je de data steekt
 
 			a) verkoper die zijn verkoopstrategie kan targetten  (in regio, op soort klant), op wie geen klanten meer aanbrengt:
 			1 de verkoopsafdeling wil een nieuwe dienst/product promotten en contacteert de zwembadbouwers en zwembadeigenaars vvia email en sms/whatsapp.
-			2 de verkoopsafdeling wil een nieuwe klanten warm maken en contacteert de prospecten via telefoon en email indien deze niet beschikbaar via post.
+			2 de verkoopsafdeling wil prospecten warm maken en contacteert deze via telefoon en email indien deze niet beschikbaar is dan via post.
+			
+
+			b) marketing kan gericht targetten (met communicatie), gericht op regio, op klantenbestand, of welke werken er kunnen worden doorgegeven
+			6 - we laten weten aan alle (zbeigenaars) klanten dat we ook service geven op hun wp (verschillende merken)
+			8 - eigen klanten krijgen de kans om de nieuwste waterbehandeling aan te kopen met een korting
+			10 - Zbbouwers mogen weten dat we een nieuw pakket hebben samengesteld voor hun klanten (zbeigenaars)
+
+			c) boekhouding/eigenaar kan commissie worden berekend aan de hand van het aantal aangebrachte klanten( afhankelijk van het aantal aangebrachte klante, hoeveelheid commisie die wordt toegekend)
+			3 - op het einde van het jaar wordt door de boekhouding gekeken hoeveel zwembadeigenaars er in portefeuille werden gegeven door de zwembadbouwer, 
+			op basis van dit aantal wordt het percentage commisie toegekend.
+			4 - de eigenaar wil zien hoeveel nieuwe klanten (zwembadeigenaars) er werden aangebracht door de zwembadbouwer
+			7 - prijsverhoging wordt doorgevoerd (alle actieve klanten moeten worden geinformeerd) niet prospecten
+
+			d) planning
+
+			5 -bij de afsluit/opstart van het seizoen een mailing verstuut om de klanten te verwittigen tijdig te verwittigen voor de planning
+			(deze mogen niet bij klanten terechtkomen van zbg, enkel bij eigen klanten, klanten van zbb, en niet bij prospecten), via email
+			9 - de Zbeigenaars van de verschillende zbbwouers krijgen info dat het komende seizoen wij de service en onderhoud bij hen komen verzorgen
+			in naam van de zbbouwers
 
 
-		- marketing kan gericht targetten (met communicatie), gericht op regio, op klantenbestand, of welke werken er kunnen worden doorgegeven
-
-			- boekhouding/eigenaar kan commissie worden berekend aan de hand van het aantal aangebrachte klanten( afhankelijk van het aantal aangebrachte klante, hoeveelheid commisie die wordt toegekend)
 
 
 
@@ -133,17 +149,11 @@ Vervolgens selecteren in welke tabel je de data steekt
 			- rol : storie:
 			
 
-			- op het einde van het jaar wordt door de boekhouding gekeken hoeveel zbe er door de zbb worden in portefeuille 
-			gegeven, zo kan de boekhouding onderzoeken in welke graad van commissie de zbb staat
-			- de eigenaar wil zien hoeveel nieuwe klanten er werden aangebracht door de zbb
-			-bij de afsluit/opstart dient er door de marketing een mailing worden verzonden 
-			(deze mogen niet bij klanten terechtkomen van zbg, enkel bij eigen klanten, klanten van zbb, en niet bij prospecten)
-			- de planning (4E rol) moet de bestaande klanten kunnen verwittigen om de opstart/afsluit te kunnen inplannen, dit 
-			wordt gericht aan actieve, eigen klanten en klanten in portefeuille gegeven door andere zbb
-			- we laten weten aan alle klanten dat we ook service geven op hun wp (verschillende merken)
-			-prijsverhoging wordt doorgevoerd (alle actieve klanten moeten worden geinformeerd) niet prospecten
-			-eigen klanten krijgen de kans om de nieuwste waterbehandeling aankopen met een korting
-			-de Zbe eigenaars van de verschillende zbb krijgen info dat opnieuw het komende jaar wij de service en onderhoud bij hen wordt verzorgt in naam van de zbb
-			-Zbb mogen weten dat we een nieuw pakket hebben samengesteld voor hun klanten
+
+
+			
+	
+			
+			
 			-het wordt warmer we willen de zbg laten weten dat we terug klaar zijn voor de herstelling van warmtepompen
 			- prijsverhoging herstelling warmtepompen moet worden doorgegeven aan de groothandels
