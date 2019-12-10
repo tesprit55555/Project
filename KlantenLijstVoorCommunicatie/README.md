@@ -114,31 +114,79 @@ Vervolgens selecteren in welke tabel je de data steekt
 		5 Geen 
 			(als is communciatiesoort = 9)
 
+			
 
 			rollen uitschrijven: welke 3 gebruikers van de database
 			- rollen zbb, zbe, zbg? BO
 
+			-----------------------------------------------
+
+			De database dient om een klantenbestand op te kunnen maken die onderscheid kan maken tussen enerzijds eigen klanten 
+			(zwembadeigenaars), zwembadeigenaars die in portefeuille werden gegeven door een andere Zwembadbouwer en tenslotte 
+			zwembadeigenaars waar een herstelling werd uitgevoerd die werd doorgestuurd door een zwembadgroothandel.
+			Deze 3 groepen mogen niet dezelfde communicatie krijgen en dus ook niet opdezelfde manier worden benadererd. 
+			Daarnaast bestaan er nog prospecten.
+			Vanuit de verkoop
+
+
+			mag simpel
+
+			rollen:
+			-verzender 
+			communicatie van opstart afsluit
+			communicatie in opdracht van de zwembadbouwer
+			geen communicatie toegestaan
+			
+			-beheerder (bepaalt wie wat kan ontvangen)
+			eigen klant mat alles ontvangen
+			klanten van zwembadbouwer mogen enkel gericht info ontvangen
+			klanten van de zwembadgroothandel  mag niets ontvangen
+
+			-ontvanger
+			eigen klant
+			klant van zwembadbouwer
+			klant van zwembadgroothandel
+			prospect (nieuwe klanten)
+
+
+			opletten voor is een relate
+
+
+
+
+
+
+
+
 			a) verkoper die zijn verkoopstrategie kan targetten  (in regio, op soort klant), op wie geen klanten meer aanbrengt:
-			1 de verkoopsafdeling wil een nieuwe dienst/product promotten en contacteert de zwembadbouwers en zwembadeigenaars vvia email en sms/whatsapp.
-			2 de verkoopsafdeling wil prospecten warm maken en contacteert deze via telefoon en email indien deze niet beschikbaar is dan via post.
+			1 de verkoopsafdeling wil een nieuwe dienst/product promotten en contacteert de zwembadbouwers en zwembadeigenaars 
+			via email en sms/whatsapp.
+			2 de verkoopsafdeling wil prospecten warm maken en contacteert deze via telefoon en email indien deze niet 
+			beschikbaar is dan via post.
 			
 
-			b) marketing kan gericht targetten (met communicatie), gericht op regio, op klantenbestand, of welke werken er kunnen worden doorgegeven
+			b) marketing kan gericht targetten (met communicatie), gericht op regio, op klantenbestand, of welke werken er 
+			kunnen worden doorgegeven
 			6 - we laten weten aan alle (zbeigenaars) klanten dat we ook service geven op hun wp (verschillende merken)
 			8 - eigen klanten krijgen de kans om de nieuwste waterbehandeling aan te kopen met een korting
 			10 - Zbbouwers mogen weten dat we een nieuw pakket hebben samengesteld voor hun klanten (zbeigenaars)
 
-			c) boekhouding/eigenaar kan commissie worden berekend aan de hand van het aantal aangebrachte klanten( afhankelijk van het aantal aangebrachte klante, hoeveelheid commisie die wordt toegekend)
-			3 - op het einde van het jaar wordt door de boekhouding gekeken hoeveel zwembadeigenaars er in portefeuille werden gegeven door de zwembadbouwer, 
+			c) boekhouding/eigenaar kan commissie worden berekend aan de hand van het aantal aangebrachte klanten( afhankelijk 
+			van het aantal aangebrachte klante, hoeveelheid commisie die wordt toegekend)
+			3 - op het einde van het jaar wordt door de boekhouding gekeken hoeveel zwembadeigenaars er in portefeuille werden
+			gegeven door de zwembadbouwer, 
 			op basis van dit aantal wordt het percentage commisie toegekend.
 			4 - de eigenaar wil zien hoeveel nieuwe klanten (zwembadeigenaars) er werden aangebracht door de zwembadbouwer
 			7 - prijsverhoging wordt doorgevoerd (alle actieve klanten moeten worden geinformeerd) niet prospecten
 
 			d) planning
 
-			5 -bij de afsluit/opstart van het seizoen een mailing verstuut om de klanten te verwittigen tijdig te verwittigen voor de planning
-			(deze mogen niet bij klanten terechtkomen van zbg, enkel bij eigen klanten, klanten van zbb, en niet bij prospecten), via email
-			9 - de Zbeigenaars van de verschillende zbbwouers krijgen info dat het komende seizoen wij de service en onderhoud bij hen komen verzorgen
+			5 -bij de afsluit/opstart van het seizoen een mailing verstuut om de klanten te verwittigen tijdig te verwittigen voor
+			de planning
+			(deze mogen niet bij klanten terechtkomen van zbg, enkel bij eigen klanten, klanten van zbb, en niet bij prospecten),
+			via email
+			9 - de Zbeigenaars van de verschillende zbbwouers krijgen info dat het komende seizoen wij de service en onderhoud 
+			bij hen komen verzorgen
 			in naam van de zbbouwers
 
 
